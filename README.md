@@ -14,7 +14,7 @@ ________________________________________
 
 Insert the network topology from Packet Tracer (Screenshot or drawing)
 <img width="1917" height="1076" alt="Screenshot 2026-10-15 172906" src="https://github.com/user-attachments/assets/e03e8c5a-166f-4c57-8df2-2e8524a765a2" />
-<img width="1895" height="1060" alt="Screenshot 2026-10-15 172822" src="https://github.com/user-attachments/assets/b158f71a-8644-491a-b9e7-adf64872d882" />
+
 
 
 ________________________________________
